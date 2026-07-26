@@ -19,7 +19,7 @@
 <details>
 <summary>点击展开</summary>
   
-![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1115.jpeg)
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1139.jpeg)
 
 </details>
 我去，据他所说的没有被授权的营销号还能获得她的点赞，真是太大度了
