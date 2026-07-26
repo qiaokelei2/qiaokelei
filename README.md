@@ -23,3 +23,13 @@
 
 </details>
 我去，据他所说的没有被授权的营销号还能获得她的点赞，真是太大度了
+
+<details>
+<summary>点击展开</summary>
+  
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1137.jpeg)
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1138.jpeg)
+
+</details>
+听你说自三月份给claude充钱居然不知claude能识图，甚至刚给claude发过图片
