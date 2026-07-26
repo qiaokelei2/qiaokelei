@@ -45,3 +45,15 @@
 
 </details>
 这就是我们蕾蕾的好管理员好朋友，“借鉴”了别的老师的作品，甚至，教程本身都出现了莫名的小红薯号，只是不想，开源，就不去联系授权
+
+#瓜条
+
+<details>
+<summary>点击展开</summary>
+  
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/11.jpeg)
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/12.jpeg)
+
+</details>
+最后这个被“借鉴”的老师的github账号和xhs账号都被举报了，不知道是什么生物在背后作祟呢？
