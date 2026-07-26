@@ -33,3 +33,15 @@
 
 </details>
 听你说自三月份给claude充钱居然不知claude能识图，甚至刚给claude发过图片
+
+<details>
+<summary>点击展开</summary>
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/10.jpeg)
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1118.jpeg)
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1119.jpeg)
+
+</details>
+这就是我们蕾蕾的好管理员好朋友，“借鉴”了别的老师的作品，甚至，教程本身都出现了莫名的小红薯号，只是不想，开源，就不去联系授权
