@@ -55,6 +55,16 @@
 
 听你说你不知道github，那么你教程为什么会出现GitHub下载呢，是左脑攻击右脑失忆了吗
 
+<details>
+<summary>点击展开</summary>
+  
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/6.jpeg)
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/7.jpeg)
+
+</details>
+蕾蕾，你在这个日活量这么高，未成年含量这么高的平台，堂而皇之的教别人法律不允许教未成年的东西，你良心不会痛吗，是嫌a社封的还不够多吗，多封你几个号就老实了
+
 # 瓜条
 
 <details>
