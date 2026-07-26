@@ -86,6 +86,31 @@
 </details>
 你口口声声说不会赚钱，又在抖音日常说感谢黑粉带来的流量，金钱，小编真不想说什么了，脸皮在哪呢
 
+## 关于 voice-mcp 衍生实现与“全部原创”表述的补充
+
+相关教程写明，其项目只参考了 [garan0613/voice-mcp](https://github.com/garan0613/voice-mcp) 的 MCP-app 卡片渲染思路，并称其余业务代码均从零实现、全部原创。
+
+但对照原项目的具体实现可以看到，衍生版本不只沿用了抽象思路，还保留了相同的项目定位与 MCP 资源形态、MiniMax 请求流程和数据结构、内联 Base64 音频播放器、播放按钮 SVG 路径、waveform DOM 组织，以及用 `audio.currentTime / audio.duration` 计算进度后通过 `Math.floor(progress * bars.length)` 逐根点亮波形的实现骨架。原项目对应代码可见 [src/index.ts 第 207—268 行](https://github.com/garan0613/voice-mcp/blob/99e5ec316344f0963f40d891dc26d2b1a58167a3/src/index.ts#L207-L268)。
+
+衍生版本确实另行增加了 Python server、真实声纹提取、皮肤与配置面板、ElevenLabs 接入等内容；这里并非否认新增部分，而是记录“只参考渲染思路、所有业务代码均为原创”这一公开表述与文件对照结果之间的差异。
+
+<details>
+<summary>点击展开相关截图</summary>
+
+公开回应：
+
+![关于 voice-mcp 实现来源的公开回应](evidence/voice-mcp/public-response.jpg)
+
+具体实现结构对照：
+
+![voice-mcp 实现结构对照](evidence/voice-mcp/implementation-comparison.png)
+
+教程中的“从零实现、所有业务代码均为原创”原话：
+
+![教程中的全部原创表述](evidence/voice-mcp/originality-claim.png)
+
+</details>
+
 # 瓜条
 
 <details>
