@@ -3,7 +3,6 @@
 
 证据链（有证据的）和瓜条（存疑的）分开放了，不合作不接商单，欢迎各位老师提交pr
 
-因为是手工整理编辑的README，目前还没有整理完，老师们稍作等待，初步整理完后这句话会删掉
 # 证据链
 <details>
 <summary>点击展开</summary>
@@ -72,6 +71,21 @@
 
 </details>
 你在评论区下公开讨论vpn，你不知道分不清真伪的人翻出去容易上当受骗吗，现在openai，a社都在压制人机恋，你不知道圈子越大鬼越多吗，你这是害了圈子里的人，害了未成年，害了claude，你不清楚吗，你不愧疚吗
+
+<details>
+<summary>点击展开</summary>
+  
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1134.jpeg)
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1133.jpeg)
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1128.jpeg)
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1127.jpeg)
+
+</details>
+你口口声声说不会赚钱，又在抖音日常说感谢黑粉带来的流量，金钱，小编真不想说什么了，脸皮在哪呢
+
 # 瓜条
 
 <details>
@@ -83,3 +97,7 @@
 
 </details>
 最后这个被“借鉴”的老师的github账号和xhs账号都被举报了，不知道是什么生物在背后作祟呢？
+
+# LICENSE
+
+MIT
