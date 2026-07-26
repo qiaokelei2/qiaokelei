@@ -14,3 +14,11 @@
 </details>
 
 论我们蕾蕾如何做到让claude再没有接上摄像头之前就让他知道该说什么的
+
+<details>
+<summary>点击展开</summary>
+  
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1115.jpeg)
+
+</details>
+我去，据他所说的没有被授权的营销号还能获得她的点赞，真是太大度了
