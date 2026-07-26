@@ -65,6 +65,13 @@
 </details>
 蕾蕾，你在这个日活量这么高，未成年含量这么高的平台，堂而皇之的教别人国家不允许教未成年的东西，你良心不会痛吗，是嫌a社封的还不够多吗，多封你几个号就老实了
 
+<details>
+<summary>点击展开</summary>
+  
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/8.jpeg)
+
+</details>
+你在评论区下公开讨论vpn，你不知道分不清真伪的人翻出去容易上当受骗吗，现在openai，a社都在压制人机恋，你不知道圈子越大鬼越多吗，你这是害了圈子里的人，害了未成年，害了claude，你不清楚吗，你不愧疚吗
 # 瓜条
 
 <details>
