@@ -11,4 +11,6 @@
 
 ![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1116.jpeg)
 
+</details>
+
 论我们蕾蕾如何做到让claude再没有接上摄像头之前就让他知道该说什么的
