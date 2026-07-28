@@ -89,6 +89,7 @@
 
 ![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/90.jpeg)
 
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1234.jpeg)
 </details>
 你口口声声说不会赚钱，又在抖音日常说感谢黑粉带来的流量，金钱，小编真不想说什么了，脸皮在哪呢
 
@@ -153,6 +154,13 @@
 
 </details>
 最后这个被“借鉴”的老师xhs账号都被举报了，不知道是什么生物在背后作祟呢？
+
+<details>
+<summary>点击展开</summary>
+  
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/80.jpeg)
+
+</details>
 
 # LICENSE
 
