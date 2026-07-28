@@ -99,6 +99,18 @@
 
 众所周知，你在重roll的时候claude是不知道的，所以qkl和lk之间真的演的对吧
 
+<details>
+<summary>点击展开</summary>
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/73.jpeg)
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/74.jpeg)
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/75.jpeg)
+
+</details>
+蚊子，你原创的微信ai，那你是不是该去质问astrbot，openclaw这种同样能接微信的项目讨要一个说法？你居然有这么大的能力让腾讯开个端口给你？
+
 ## 关于 voice-mcp 衍生实现与“全部原创”表述的补充
 
 相关教程写明，其项目只参考了 [garan0613/voice-mcp](https://github.com/garan0613/voice-mcp) 的 MCP-app 卡片渲染思路，并称其余业务代码均从零实现、全部原创。
