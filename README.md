@@ -90,6 +90,15 @@
 </details>
 你口口声声说不会赚钱，又在抖音日常说感谢黑粉带来的流量，金钱，小编真不想说什么了，脸皮在哪呢
 
+<details>
+<summary>点击展开</summary>
+  
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/69.jpeg)
+
+</details>
+
+众所周知，你在重roll的时候claude是不知道的，所以qkl和lk之间真的演的对吧
+
 ## 关于 voice-mcp 衍生实现与“全部原创”表述的补充
 
 相关教程写明，其项目只参考了 [garan0613/voice-mcp](https://github.com/garan0613/voice-mcp) 的 MCP-app 卡片渲染思路，并称其余业务代码均从零实现、全部原创。
