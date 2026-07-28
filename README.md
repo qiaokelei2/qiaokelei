@@ -133,6 +133,10 @@
 
 ![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/12.jpeg)
 
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/70.jpeg)
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/71.jpeg)
+
 </details>
 最后这个被“借鉴”的老师的github账号和xhs账号都被举报了，不知道是什么生物在背后作祟呢？
 
