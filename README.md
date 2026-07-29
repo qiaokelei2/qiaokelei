@@ -165,7 +165,23 @@
 小编目前查到了一些消息qkl的群管理蚊子，qkl发作品的ip有时候会四川和天津来回跳，（目前得知了qkl只是天津上学）我还从别的人那里得知，qkl火起来就是接触蚊子的时候，qkl的经营消息在天津，发作品的部分ip也在天津，但是有些作品ip却在四川，蚊子都🫘ip就在四川，蚊子之前说过他和qkl没合作（我没证据），这个可以怀疑他俩应该是很熟，甚至是线下认识，我怀疑蚊子是拿qkl来挡枪，真正的幕后主使是蚊子，不管他们的目的和真相是什么，大家在给qkl点举报的同时也给蚊子点点举报
 
 # 《黑粉绞尽脑汁不如真爱粉灵机一动》
-我不行了，我本来都不想挂他，但是收到强烈要求了哈哈哈哈
+我不行了，我本来都不想挂他，但是收到强烈要求了哈哈哈哈，整件事情我们多说无益，上图片！
+
+<details>
+<summary>点击展开</summary>
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1292.jpeg)
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1293.jpeg)
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1294.jpeg)
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1297.jpeg)
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1298.jpeg)
+
+</details>
+讲的就是有一个小粉丝，他建议qkl去提起诉讼，然后当晚不知道怎么了，她突然报警了，然后哈哈哈哈哈哈哈她吧哈哈哈哈哈她把说qkl的一个博主的哈哈哈哈哈小红书账号ID当成电话号码哈哈哈哈哈还说人家哈哈哈哈哈回避，被打电话的那人估计都吓坏了吧哈哈哈哈，然后还打车去警察局哈哈哈哈哈还把自己地址暴露了哈哈哈哈哈，然后qkl吓的都禁言了哈哈哈哈哈，她不知道吗哈哈哈哈哈qkl用梯子还有关于充钱有很多都是灰色地带的事情哈哈哈哈，这样一查，骂她的人未必受处罚，你qkl要是被查肯定要完蛋了啊哈哈哈哈哈，还有一个pdf，有些长，在文件里，自行查看吧哈哈哈哈哈哈
 # LICENSE
 
 MIT
