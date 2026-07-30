@@ -112,8 +112,10 @@
 
 ![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/75.jpeg)
 
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/206.jpeg)
+
 </details>
-蚊子，你原创的微信ai，那你是不是该去质问astrbot，openclaw这种同样能接微信的项目讨要一个说法？你居然有这么大的能力让腾讯开个端口给你？
+蚊子，你原创的微信ai，那你是不是该去质问astrbot，openclaw这种同样能接微信的项目讨要一个说法？你居然有这么大的能力让腾讯开个端口给你？哦还是收费的
 
 ## 关于 voice-mcp 衍生实现与“全部原创”表述的补充
 
