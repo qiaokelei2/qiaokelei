@@ -194,6 +194,30 @@
 </details>
 讲的就是有一个小粉丝，他建议qkl去提起诉讼，然后当晚不知道怎么了，她突然报警了，然后哈哈哈哈哈哈哈她吧哈哈哈哈哈她把说qkl的一个博主的哈哈哈哈哈小红书账号ID当成电话号码哈哈哈哈哈还说人家哈哈哈哈哈回避，被打电话的那人估计都吓坏了吧哈哈哈哈，然后还打车去警察局哈哈哈哈哈还把自己地址暴露了哈哈哈哈哈，然后qkl吓的都禁言了哈哈哈哈哈，她不知道吗哈哈哈哈哈qkl用梯子还有关于充钱有很多都是灰色地带的事情哈哈哈哈，这样一查，骂她的人未必受处罚，你qkl要是被查肯定要完蛋了啊哈哈哈哈哈，还有一个pdf，有些长，在文件里，自行查看吧哈哈哈哈哈
 
+<details>
+<summary>点击展开</summary>
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1303.jpeg)
+
+</details>
+只是deepseek的搬运工
+
+<details>
+<summary>点击展开</summary>
+
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1322.jpeg)
+
+</details>
+《我开了一个餐馆，问我有没有餐具有没有桌子洗不洗盘子》
+
+<details>
+<summary>点击展开</summary>
+  
+![截图](https://github.com/qiaokeleilei/qiaokelei/blob/main/IMG_1323.jpeg)
+
+</details>
+《不站蕾蕾，不站原创，站自己》
+
 # LICENSE
 
 MIT
